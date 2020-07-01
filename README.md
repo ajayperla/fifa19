@@ -46,7 +46,7 @@ Loaded data into spark dataframes and selected required columns and persisted in
 
 	1. Filter out the data which includes only within 30 years of age with left footed players and found most number by doing descending order
 
-     2. First I have taken players who are having highest Overall in thier respective Positions. Then taken 4 higest overall midfielders, 4 highest overal defenders and          2 highest overall strikers and one highest overall goal keeper "Irrespective of Club and Country".
+     2. First I have taken players who are having highest Overall in thier respective Positions. Then taken 4 higest overall midfielders, 4 highest overal defenders and 2 highest overall strikers and one highest overall goal keeper "Irrespective of Club and Country".
 		
 		Assumption: I have took an assuption as there is no mandatory position among each group of midfielders, defenders and strikers.
 		ex: In midfielders RM/RWM LCM/CM RCM/CM LM/LWM , who are having top most 4 overall among declared positions.
