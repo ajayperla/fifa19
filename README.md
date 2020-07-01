@@ -39,20 +39,6 @@ check table description, run \d [table_name]
 check record count, run select count(1) from [table_name]. Right now output will be 18207.
 check table data, run select * from [table_name] limit 5
 
-Outputs from console:
-
- 
-
- 
-
- 
-
- 
-
- 
-
-
-
 
 Approach: 
 
